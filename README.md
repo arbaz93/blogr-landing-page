@@ -30,9 +30,8 @@ To run this project locally, you can clone the repository:
    ```bash  
    git clone https://github.com/arbaz93/blogr-landing-page.git
 
-2. Navigate to the project directory:
-   ```bash  
-   git clone https://github.com/arbaz93/blogr-landing-page.git
+2. Go to the project directory:
+
 3. Open the index.html file in your preferred web browser to view the landing page.
 
 ## Contributing  
