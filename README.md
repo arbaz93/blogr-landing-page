@@ -44,5 +44,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgements 
 
-- Inspired by Front End Mentor
+- This project is based on a design challenge from [Frontend Mentor](https://www.frontendmentor.io). The design files were used to help develop this website.   
 - Figma for the design prototype
